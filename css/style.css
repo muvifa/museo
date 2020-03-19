@@ -111,7 +111,7 @@ h1, h2, h3, h4, h5, h6 {
     position: absolute;
     width: 40px;
     height: 2px;
-    background: #ff5733; }
+    background: #5d1100; }
   .site-section-heading.text-center:before {
     content: "";
     left: 50%;
@@ -122,7 +122,7 @@ h1, h2, h3, h4, h5, h6 {
     position: absolute;
     width: 40px;
     height: 2px;
-    background: #ff5733; }
+    background: #5d1100; }
 
 .border-top {
   border-top: 1px solid #ced4da !important; }
